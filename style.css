@@ -1,0 +1,30 @@
+h1{
+    color:cornflowerblue;
+    border:solid;
+}
+
+body{
+    background-color:rgb(251, 251, 207) ;
+}
+
+
+.header{
+    background-color:coral ;
+    display: flex;
+    justify-content: space-between;
+}
+
+.name{
+    text-align: center;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: skyblue;
+}
+
+.top{
+    text-align: center;
+}
